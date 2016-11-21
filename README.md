@@ -1,4 +1,4 @@
-# RepsRegionalCoach - Mozilla Italia
+# Reps Regional Coach - Mozilla Italia
 Repository for the Community to define a plan with them on which activities their communities can start contributing to in the next 2 months and collect all the  activities/plans documented.
 
 This repository is used for tracking [issues](https://github.com/edovio/RepsRegionalCoach_MozillaItalia/issues) directly related to the work of the Mozilla Italia Community.
